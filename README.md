@@ -1,6 +1,9 @@
 # ImagePalette
 Shiny app uses k-means clustering to build a color palette from an image
 
+[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active)
+
+
 App is at https://jrwalker.shinyapps.io/imagepalette/
 
 The sidebar includes 
